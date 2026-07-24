@@ -41,5 +41,5 @@ Effective 1st April 2026
 " 1 :add]
  ["childbase-terms-1" :tos/source-url "https://childbasepartnership.com/terms-and-conditions/" 1 :add]
  ["childbase-terms-1" :tos/retrieved-at "2026-07-19" 1 :add]
- ["childbase-terms-1" :tos/sha256 "a3575d1bbfa9f93368475de7deb0445dad274e22f10ef996674ad9b97651a30a" 1 :add]
+ ["childbase-terms-1" :tos/sha256 "1b5425eeb701debc922a694effd123bcb9cbb723d7bd8e3f20b891c398083fe9" 1 :add]
  ["childbase-terms-1" :tos/doc-type :terms-of-service 1 :add]]
