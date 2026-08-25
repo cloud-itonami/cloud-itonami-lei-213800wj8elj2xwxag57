@@ -1,4 +1,11 @@
-{:company/legal-name "Childbase Partnership Limited"
- :company/lei "213800WJ8ELJ2XWXAG57"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/213800WJ8ELJ2XWXAG57), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
  :company/jurisdiction "GB"
+ :company/legal-address "KINGSTON HOUSE, NORTHAMPTON ROAD, MK16 8NJ, NEWPORT PAGNELL, GB-BKM, GB"
+ :company/legal-form-elf "H0PO"
+ :company/legal-jurisdiction "GB"
+ :company/legal-name "Childbase Partnership Limited"
+ :company/lei "213800WJ8ELJ2XWXAG57"
+ :company/lei-status "ISSUED"
+ :company/postal-address "KINGSTON HOUSE, NORTHAMPTON ROAD, MK16 8NJ, NEWPORT PAGNELL, GB-BKM, GB"
+ :company/registration-number "02418535"
  :company/website "https://www.childbasepartnership.com"}
